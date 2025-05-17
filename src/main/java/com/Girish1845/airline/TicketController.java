@@ -1,7 +1,7 @@
 package com.Girish1845.airline;
 
-import com.Bhavikaa324.airline.db.TicketInfo;
-import com.Bhavikaa324.airline.services.TicketService;
+import com.Girish1845.airline.db.TicketInfo;
+import com.Girish1845.airline.services.TicketService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

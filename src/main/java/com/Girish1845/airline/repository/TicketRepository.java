@@ -1,6 +1,6 @@
-package com.Bhavikaa324.airline.repository;
+package com.Girish1845.airline.repository;
 
-import com.Bhavikaa324.airline.db.TicketInfo;
+import com.Girish1845.airline.db.TicketInfo;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Component;
 
